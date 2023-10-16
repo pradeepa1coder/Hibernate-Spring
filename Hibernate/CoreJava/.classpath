@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Inheritence"/>
+	<classpathentry kind="src" path="Polymorphsm"/>
+	<classpathentry kind="src" path="Encapsulation"/>
+	<classpathentry kind="src" path="Abstraction"/>
+	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="ExceptionHandling"/>
+	<classpathentry kind="src" path="JavaBasics"/>
+	<classpathentry kind="src" path="MultiThreadingSelf"/>
+	<classpathentry kind="src" path="FileHanding"/>
+	<classpathentry kind="src" path="Comparable"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
